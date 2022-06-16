@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Frontend Developer, UI Designer & Digital Marketer from Venezuela.</h3>
 
-- 👨‍💻 All of my projects are available at [https://ivanatias.dev](https://ivanatias.dev)
+- 👨‍💻 All of my projects are available at [https://ivanatias.codes](https://ivanatias.codes)
 
-- 📝 I regularly write articles on [https://ivanatias.dev/blog](https://ivanatias.dev/blog)
+- 📝 I regularly write articles on [https://ivanatias.codes/blog](https://ivanatias.codes/blog)
 
 - 💬 Ask me about **React, HTML, CSS, Gatsby, NextJs, Sass, Figma, Bootstrap, Material UI, etc.**
 
