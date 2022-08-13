@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Frontend Developer, UI Designer & Digital Marketer from Venezuela.</h3>
+<h3 align="center">Front-End Engineer, UI Designer & Digital Marketer based in Venezuela.</h3>
 
 - 👨‍💻 All of my projects are available at [https://ivanatias.codes](https://ivanatias.codes)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivanatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanatias" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivandatiasr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanatias" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17195992/ivanatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17195992/ivanatias" height="30" width="40" /></a>
 <a href="https://instagram.com/ivanatias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanatias" height="30" width="40" /></a>
 </p>
