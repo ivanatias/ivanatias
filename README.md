@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Front-End Engineer, UI Designer & Digital Marketer based in Venezuela.</h3>
+<h3 align="center">Front-end Engineer and UI Designer based in Venezuela.</h3>
 
 - 👨‍💻 All of my projects are available at [https://ivanatias.codes](https://ivanatias.codes)
 
